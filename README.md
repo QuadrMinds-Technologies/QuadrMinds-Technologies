@@ -3,7 +3,7 @@
   QuadrMinds Technologies
  </h1>
 
-<h2 align="center"> Powered by Cores 🚀</h2>
+<h2 align="center"> Powered by 4 Cores 🚀</h2>
 <h3 align="center">Building Intelligent Solutions for Tomorrow's Challenges</h3>
 
 <p align="center">
